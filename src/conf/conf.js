@@ -1,3 +1,4 @@
+
 const conf = {
     appwriteUrl: import.meta.env.VITE_APPWRITE_URL,
     appwriteProjectId: import.meta.env.VITE_APPWRITE_PROJECT_ID,
@@ -7,6 +8,9 @@ const conf = {
 
     appwritepfpBucketId: import.meta.env.VITE_APPWRITE_PFP_BUCKET_ID,
     appwriteProfileCollectionId: import.meta.env.VITE_APPWRITE_PROFILE_COLLECTION_ID,
+
+    tinymceKey : import.meta.env.TINY_MCE_KEY,
+
     
 
 }
