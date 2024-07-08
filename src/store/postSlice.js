@@ -1,5 +1,7 @@
 // store/postsSlice.js
 
+// incomplete 
+
 import { createSlice, createAsyncThunk } from '@reduxjs/toolkit';
 import service from '../appwrite/config'
 
